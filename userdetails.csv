@@ -1,0 +1,10 @@
+EmailID,Password,FirstName,LastName,City,Age,Gender,BloodGroup,ContactNo,NoOfDoses,Booked,VaccineName,Slot,Date,CentreName
+avneet@gmail.com,avneet0011,Avneet,Kapoor,Bangalore,18,male,O+,7895623169,1,1,Covishield,12:00 - 13:00,16-02-2023,Phoenix Hospital
+ishika@gmail.com,ishika1290,Ishika,Mittal,Delhi,19,female,B+,4576529867,2,1,MODERNA,9:00 - 10:00,26-08-2023,Apollo Hospital
+yash@gmail.com,yashtyagi04,Yash,Tyagi,Mumbai,18,male,A+,8756478928,3,0
+sreyansh@gmail.com,sreyansh1234,Sreyansh,Baid,Kolkata,18,male,AB+,9873526390,2,0
+amit12@gmail.com,amit12345,Amit,Kapoor,Bangalore,15,male,O+,6789026374,0,0
+sonakshi@gmail.com,sonakshi123,Sonakshi,Priyadarshini,Bangalore,18,female,A+,9647839029,3,0
+kunal@gmail.com,kunal0123,Kunal,Triyar,Mumbai,18,male,AB+,9853627819,2,1,Covishield,12:00 - 13:00,2/6/2023,Wockhardt Hospital
+paakhi@gmail.com,paakhi1010,Paakhi,Kataria,Delhi,18,female,O+,1239876453,1,1,MODERNA,10:30 - 11:30,14/2/2023,Park Hospital
+tarini@gmail.com,tarini1234,Tarini,Agrawal,Mumbai,18,female,B+,8765783902,1,1,Covishield,10:30 - 11:30,13/7/2023,Apollo Hospital
